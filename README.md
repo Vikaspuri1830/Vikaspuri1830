@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I’m Vikas Puri, a B.Tech Computer Science graduate With a strong foundation in Data Structures & Algorithms, Software Development, and Cloud Computing, I enjoy tackling complex problems and developing efficient software solutions.</p>
+<p align="left">I’m Vikas Puri, a B.Tech Computer Science graduate With a strong foundation in Data Structures & Algorithms, Software Development, I enjoy tackling complex problems and developing efficient software solutions.</p>
 
 ###
 
